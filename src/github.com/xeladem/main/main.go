@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"time"
-	"git.piichigo.fr/gojuliandate"
+	"github.com/xeladem/gojuliandate"
 )
 
 
